@@ -9,7 +9,7 @@ Dự án này tập trung vào việc phân tích dữ liệu về các căn h�
 - Trực quan hóa dữ liệu bằng Power BI để đưa ra những thông tin quan trọng.
 
 ## 3. Lấy dữ liệu
-Dự án lấy dữ từ trang (https://www.airbnb.com.vn)[https://www.airbnb.com.vn]
+Dự án lấy dữ từ trang [https://www.airbnb.com.vn](https://www.airbnb.com.vn)
 
 [Code lấy dữ liệu sử dụng Selenium](Sele.py)
 ![Dữ liệu lấy được](listroom.PNG)
