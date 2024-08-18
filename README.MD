@@ -1,5 +1,5 @@
 # Phân Tích Dữ Liệu Airbnb TPHCM: Giá Thuê, Loại Căn Hộ và Phân Bố 
-## 1. Giới thiệu về dự
+## 1. Giới thiệu về dự án
 Dự án này tập trung vào việc phân tích dữ liệu về các căn hộ được thuê qua Airbnb tại TPHCM. Dữ liệu bao gồm các thông tin như giá thuê, số lượng phòng (phòng khách, phòng ngủ, phòng tắm), số giường ngủ và điểm đánh giá của mỗi căn hộ. Bằng cách khai thác và trực quan hóa dữ liệu này, dự án nhằm mang lại cái nhìn tổng quan về thị trường thuê căn hộ Airbnb trong khu vực, giúp khách hàng có nhu cầu thuê căn hộ dễ đưa ra quyết định hơn.
 
 ## 2. Mục tiêu của dự án
