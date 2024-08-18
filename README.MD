@@ -24,6 +24,8 @@ Dự án này tập trung vào việc phân tích dữ liệu về các căn h�
 + District 4 -> Quận 4
 + Tân Hưng -> Quận 7
 + Còn lại -> Other
+
+
 ![Chuẩn hóa Locate](clean2.PNG)
 
 
